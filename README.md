@@ -1,4 +1,4 @@
-Dockerized Laravel 4
+Dockerized Laravel 5
 ==================
 
 This a version of the Laravel 5.0 framework with additions to allow it to be run using Docker. This removes the hassle of deploying your webserver in a way the Laravel framework needs.
