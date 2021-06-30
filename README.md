@@ -1,5 +1,9 @@
 # ABANDONED NOTICE
-This repository is abandoned/dead/deprecated. Please do not use it directly. I am just leaving this here in case it proves useful in future for creating another Dockerized Laravel version in the future if I ever need to.
+This repository is abandoned/dead/deprecated/expired/deceased. 
+
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia-cache-ec0.pinimg.com%2F736x%2F9b%2F02%2Fc5%2F9b02c57ecd5ea8848371be38465f6f0e.jpg&f=1&nofb=1)
+
+Please do not use it directly. I am just leaving this here in case it proves useful in future for creating another Dockerized Laravel version in the future if I ever need to.
 
 This is because Laravel 5 is not supported anymore, and there are known security issues with using it. Please refer to the [release schedule](https://laravel.com/docs/master/releases) for which Laravel version you should consider using.
 
